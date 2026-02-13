@@ -11,13 +11,13 @@ h1 {
     line-height: 110%;
     filter: drop-shadow(16px 16px 20px red) invert(75%);
     font-family: 'Times New Roman', Times, serif;
-
 }
 
 p {
     line-height: 130%;
     text-indent: 5%;
     font-family: Arial, Helvetica, sans-serif;
+    color: #49492f
 }
 
 h2{
@@ -30,5 +30,5 @@ h3{
 }
 
 p:hover{
-    color: pink;
+    color: #2c391f;
 }
